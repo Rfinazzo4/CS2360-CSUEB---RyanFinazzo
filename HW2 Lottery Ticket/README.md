@@ -1,1 +1,1 @@
-# This program determines if the user input (ticket) is a winning lottery ticket.  The winning lottery tickets are pre determined which are: 13579, 26791, 26792, 33445, 55555, 62483, 77777, 79422, 85647, 93121
+# This program determines if the user input (ticket) is a winning lottery ticket using a bubble sort and binary search.  The winning lottery tickets are pre determined which are: 13579, 26791, 26792, 33445, 55555, 62483, 77777, 79422, 85647, 93121

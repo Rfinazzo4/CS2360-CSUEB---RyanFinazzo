@@ -1,0 +1,1 @@
+# Continuation of CS 1160(Introduction to Computer Science I). Focuses on algorithm development, structured program design, testing, and debugging. Topics include abstract data types, pointers, linked lists, recursion.
